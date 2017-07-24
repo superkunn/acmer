@@ -47,9 +47,10 @@ S##
 0 0 0
 ```
 Sample Output
-
+```
 Escaped in 11 minute(s).
 Trapped!
+```
 
 ```c++
 #include <iostream>
