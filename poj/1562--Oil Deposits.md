@@ -1,5 +1,6 @@
 [返回](https://github.com/superkunn/acmer)
 ## Oil Deposits
+```
 Time Limit: 1000MS		Memory Limit: 10000K
 Total Submissions: 17675		Accepted: 9380
 Description
@@ -13,7 +14,7 @@ Output
 
 are adjacent horizontally, vertically, or diagonally. An oil deposit will not contain more than 100 pockets.
 Sample Input
-```
+
 1 1
 *
 3 5
@@ -29,9 +30,9 @@ Sample Input
 @@@*@
 @@**@
 0 0
-```
+
 Sample Output
-```
+
 0
 1
 2

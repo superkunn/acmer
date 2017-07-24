@@ -3,7 +3,7 @@
 Time Limit: 1000MS		Memory Limit: 65536K
 Total Submissions: 33998		Accepted: 12990
 Description
-
+```
 You are trapped in a 3D dungeon and need to find the quickest way out! The dungeon is composed of unit cubes which may or may not be filled with rock. It takes one minute to move one unit north, south, east, west, up or down. You cannot move diagonally and the maze is surrounded by solid rock on all sides. 
 
 Is an escape possible? If yes, how long will it take? 
@@ -22,7 +22,7 @@ where x is replaced by the shortest time it takes to escape.
 If it is not possible to escape, print the line 
 Trapped!
 Sample Input
-```
+
 3 4 5
 S....
 .###.
@@ -45,9 +45,9 @@ S##
 ###
 
 0 0 0
-```
+
 Sample Output
-```
+
 Escaped in 11 minute(s).
 Trapped!
 ```
