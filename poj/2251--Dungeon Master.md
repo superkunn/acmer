@@ -1,5 +1,5 @@
-/*
-Dungeon Master
+[返回](https://github.com/superkunn/acmer)
+## Dungeon Master
 Time Limit: 1000MS		Memory Limit: 65536K
 Total Submissions: 33998		Accepted: 12990
 Description
@@ -49,7 +49,8 @@ Sample Output
 
 Escaped in 11 minute(s).
 Trapped!
-*/
+
+```c++
 #include <iostream>
 #include <cstdio>
 using namespace std;
@@ -263,5 +264,5 @@ int main()
 
     return 0;
 }
-
-
+```
+[返回](https://github.com/superkunn/acmer)
