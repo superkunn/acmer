@@ -22,7 +22,7 @@ where x is replaced by the shortest time it takes to escape.
 If it is not possible to escape, print the line 
 Trapped!
 Sample Input
-
+```
 3 4 5
 S....
 .###.
@@ -45,6 +45,7 @@ S##
 ###
 
 0 0 0
+```
 Sample Output
 
 Escaped in 11 minute(s).
