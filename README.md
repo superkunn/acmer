@@ -7,5 +7,6 @@
 | 3126 | Prime Path                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/3126.md) | BFS                    |
 | 3278 | Catch That Cow                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/3278.md) | BFS                    |
 | 3414 | Pots                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/3414.md) | BFS + 路径                   |
+| 2312 | Battle City                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2312.md) | BFS + 优先队列                   |
 | 1562 | Oil Deposits                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1562--Oil%20Deposits.md) | DFS                    |
 
