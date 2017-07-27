@@ -11,4 +11,5 @@
 | 2312 | Battle City                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2312.md) | BFS + 优先队列                   |
 | 1562 | Oil Deposits                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1562--Oil%20Deposits.md) | DFS                    |
 | 1401 | Factorial                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1401.md) | 找规律（水）                   |
+| 1107 | W's Cipher                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1107.md) | 解密（处理字符串）（水）                   |
 
