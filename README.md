@@ -11,6 +11,7 @@
 | 3278 | Catch That Cow                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/3278.md) | BFS                    |
 | 3414 | Pots                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/3414.md) | BFS + 路径                   |
 | 2312 | Battle City                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2312.md) | BFS + 优先队列                   |
+| 1324 | Holedox Moving                     | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1324.md) | BFS + 状态压缩                   |
 | 1401 | Factorial                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1401.md) | 找规律（水）                   |
 | 1107 | W's Cipher                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1107.md) | 解密（处理字符串）（水）                   |
 
