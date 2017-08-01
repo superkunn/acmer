@@ -10,6 +10,7 @@
 | poj 1321 | 棋盘问题                            | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1321.md) | DFS                           |
 | poj 3009 | Curling 2.0                         | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/3009.md) | DFS                           |
 | poj 1562 | Oil Deposits                        | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1562.md) | DFS                           |
+| poj 2531 | Network Saboteur                    | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2531.md) | DFS  随机分类                 |
 | poj 2251 | Dungeon Master                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2251.md) | BFS                           |
 | poj 1915 | Knight Moves                        | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1915.md) | BFS                           |
 | poj 3126 | Prime Path                          | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/3126.md) | BFS                           |
