@@ -5,6 +5,7 @@
 | :------: | :---------------------------------- | :--------------------------------------------------------------------: | :---------------------------: |
 | poj 1526 | Call Forwarding                     | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1526.md) | 递归                          |
 | poj 1664 | 放苹果                              | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1664.md) | 递归                          |
+| hdu 1426 | Find The Multiple                   | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1426.md) | DFS                           |
 | hdu 1584 | 蜘蛛牌                              | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1584.md) | DFS                           |
 | poj 1321 | 棋盘问题                            | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1321.md) | DFS                           |
 | poj 3009 | Curling 2.0                         | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/3009.md) | DFS                           |
