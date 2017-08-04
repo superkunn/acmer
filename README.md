@@ -30,6 +30,7 @@
 | :-------: | :---------------------------------: | :--------------------------------------------------------------------:  | :---------------------------: |
 | poj 3646  | The Dragon of Loowater              | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/3646.md)  | 《大白》 P1                   |
 | uva 11729 | Commando War                        | [查看代码](https://github.com/superkunn/acmer/blob/master/uva/11729.md) | 《大白》 P3  贪心             |
+| uva 11300 | Spreading the Wealth                | [查看代码](https://github.com/superkunn/acmer/blob/master/uva/11300.md) | 《大白》 P6  代数分析 ★       |
 
 
 
