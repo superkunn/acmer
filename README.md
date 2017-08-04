@@ -15,7 +15,7 @@
 | poj 2531 | Network Saboteur                    | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2531.md) | DFS  随机分类                 |
 | poj 1724 | ROADS                               | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1724.md) | DFS  剪枝                     |
 | hdu 1728 | 逃离迷宫                            | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1728.md) | DFS  剪枝                     |
-| poj 2363 | Square                              | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2362.md) | DFS  剪枝                     |
+| poj 2362 | Square                              | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2362.md) | DFS  剪枝                     |
 | poj 2251 | Dungeon Master                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2251.md) | BFS                           |
 | poj 1915 | Knight Moves                        | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1915.md) | BFS                           |
 | poj 3126 | Prime Path                          | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/3126.md) | BFS                           |
