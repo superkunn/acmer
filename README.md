@@ -32,5 +32,10 @@
 | uva 11729 | Commando War                        | [查看代码](https://github.com/superkunn/acmer/blob/master/uva/11729.md) | 《大白》 P3  贪心             |
 | uva 11300 | Spreading the Wealth                | [查看代码](https://github.com/superkunn/acmer/blob/master/uva/11300.md) | 《大白》 P6  代数分析 ★       |
 
+## 《小白》
+|     ID    | Title                               |                C/C++                                                    | 备注                          |
+| :-------: | :---------------------------------: | :--------------------------------------------------------------------:  | :---------------------------: |
+| uva 10474 | Where is the Marble?                | [查看代码](https://github.com/superkunn/acmer/blob/master/uva/10474.md) | 《小白》 P108   排序和查找    |
+
 
 
