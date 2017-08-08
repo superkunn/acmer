@@ -28,6 +28,7 @@
 | poj 1611 | The Suspects                        | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1611.md) | 并查集                        |
 | hdu 1325 | Is It A Tree?                       | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1325.md) | 并查集 路径压缩               |
 | hdu 1829 | A Bug's Life                        | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1829.md) | 种类并查集                    |
+| poj 2236 | Wireless Network                    | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2236.md) | 并查集+判断                   |
 | poj 1401 | Factorial                           | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1401.md) | 找规律（数学）                |
 | poj 1107 | W's Cipher                          | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1107.md) | 解密（处理字符串）            |
 
