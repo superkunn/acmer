@@ -27,6 +27,7 @@
 | poj 2524 | Ubiquitous Religions                | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2524.md) | 并查集                        |
 | poj 1611 | The Suspects                        | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1611.md) | 并查集                        |
 | hdu 1325 | Is It A Tree?                       | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1325.md) | 并查集 路径压缩               |
+| poj 1984 | Navigation Nightmare                | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1984.md) | 权值并查集                    |
 | hdu 1829 | A Bug's Life                        | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1829.md) | 种类并查集                    |
 | poj 1703 | Find them, Catch them               | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1703.md) | 种类并查集                    |
 | poj 1182 | 食物链                              | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1182.md) | 多种类并查集                  |
