@@ -26,6 +26,7 @@
 | poj 1324 | Holedox Moving                      | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1324.md) | BFS + 状态压缩                |
 | poj 2524 | Ubiquitous Religions                | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2524.md) | 并查集                        |
 | poj 1611 | The Suspects                        | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1611.md) | 并查集                        |
+| hdu 4496 | D-City                              | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/4496.md) | 并查集 逆向思维               |
 | hdu 1325 | Is It A Tree?                       | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1325.md) | 并查集 路径压缩               |
 | poj 1984 | Navigation Nightmare                | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1984.md) | 权值并查集                    |
 | poj 1988 | Cube Stacking                       | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1988.md) | 权值并查集                    |
