@@ -29,6 +29,7 @@
 | hdu 1325 | Is It A Tree?                       | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1325.md) | 并查集 路径压缩               |
 | poj 1984 | Navigation Nightmare                | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1984.md) | 权值并查集                    |
 | poj 1988 | Cube Stacking                       | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1988.md) | 权值并查集                    |
+| hdu 2860 | Regroup                             | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/2860.md) | 权值并查集                    |
 | hdu 1829 | A Bug's Life                        | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1829.md) | 种类并查集                    |
 | poj 1703 | Find them, Catch them               | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1703.md) | 种类并查集                    |
 | poj 1182 | 食物链                              | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1182.md) | 多种类并查集                  |
