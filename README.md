@@ -36,7 +36,8 @@
 | poj 1182 | 食物链                              | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1182.md) | 多种类并查集                  |
 | poj 2236 | Wireless Network                    | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/2236.md) | 并查集+判断                   |
 | poj 1456 | Supermarket                         | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1456.md) | 并查集+贪心                   |
-| hdu 1166 | 敌兵布阵                            | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1166.md) | 线段树                        |
+| hdu 1166 | 敌兵布阵                            | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1166.md) | 线段树求和                    |
+| hdu 1754 | I Hate It                           | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1754.md) | 线段树求最值                  |
 | poj 1401 | Factorial                           | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1401.md) | 找规律（数学）                |
 | poj 1107 | W's Cipher                          | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1107.md) | 解密（处理字符串）            |
 
