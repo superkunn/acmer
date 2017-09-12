@@ -59,6 +59,7 @@
 |     ID        | Title                               |                C/C++                                                              | 备注                          |
 | :-----------: | :---------------------------------: | :------------------------------------------------------------------------------:  | :---------------------------: |
 | 2017shenyang5 | number number number                | [查看代码](https://github.com/superkunn/acmer/blob/master/icpc/2017shenyang5.md)  |  矩阵快速幂                   |
+| hdu 6182      | A Math Problem                      | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/6182.md)            |  快速幂数据大小               |
 
 
 
