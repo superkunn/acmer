@@ -60,6 +60,7 @@
 | :-----------: | :---------------------------------: | :------------------------------------------------------------------------------:  | :---------------------------: |
 | 2017shenyang5 | number number number                | [查看代码](https://github.com/superkunn/acmer/blob/master/icpc/2017shenyang5.md)  |  矩阵快速幂                   |
 | hdu 6182      | A Math Problem                      | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/6182.md)            |  快速幂数据大小               |
+| 2017xian2     | Coin                                | [查看代码](https://github.com/superkunn/acmer/blob/master/icpc/2017xian2.md)      |  概率,快速幂,逆元,费马小定理  |
 
 
 
