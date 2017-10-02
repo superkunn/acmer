@@ -39,6 +39,7 @@
 | hdu 1166 | 敌兵布阵                            | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1166.md) | 线段树求和                    |
 | hdu 1754 | I Hate It                           | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1754.md) | 线段树求最值                  |
 | hdu 1698 | Just a Hook                         | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/1698.md) | 线段树区间更新                |
+| poj 3486 | A Simple Problem with Integers                         | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/3486.md) | 线段树lazy                |
 | poj 1401 | Factorial                           | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1401.md) | 找规律（数学）                |
 | poj 1107 | W's Cipher                          | [查看代码](https://github.com/superkunn/acmer/blob/master/poj/1107.md) | 解密（处理字符串）            |
 
@@ -61,6 +62,3 @@
 | 2017shenyang5 | number number number                | [查看代码](https://github.com/superkunn/acmer/blob/master/icpc/2017shenyang5.md)  |  矩阵快速幂                   |
 | hdu 6182      | A Math Problem                      | [查看代码](https://github.com/superkunn/acmer/blob/master/hdu/6182.md)            |  快速幂数据大小               |
 | 2017xian2     | Coin                                | [查看代码](https://github.com/superkunn/acmer/blob/master/icpc/2017xian2.md)      |  概率,快速幂,逆元,费马小定理  |
-
-
-
